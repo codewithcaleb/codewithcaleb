@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codewithcaleb
-- 👀 I’m interested in ... Software Development/Project Manager
+- 👀 I’m interested in ... Project Manager/Software Development
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Application/Web Development
 - 📫 How to reach me ... ngohcaleb2002@gmail.com
